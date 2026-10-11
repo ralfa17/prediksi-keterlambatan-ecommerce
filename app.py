@@ -43,4 +43,4 @@ if st.button("Prediksi"):
     if proba >= 0.4:
         st.error(f"⚠️ {prediksi} — Keyakinan: {proba:.1%}")
     else:
-        st.succes(f"✅ {prediksi} — Keyakinan tidak telat: {1-proba:.1%}")
+        st.success(f"✅ {prediksi} — Keyakinan tidak telat: {1-proba:.1%}")
