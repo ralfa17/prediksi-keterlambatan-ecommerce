@@ -1,4 +1,3 @@
 data/*.csv
-hasil/*.pkl
 __pycache__/
 .ipynb_checkpoints/
