@@ -12,8 +12,8 @@ learning.
 - `data/` — dataset (tidak disertakan di repository karena ukuran besar)
 
 ## Cara Menjalankan Prototype
-pip install -r requirements.txt
-python -m streamlit run app.py
+- pip install -r requirements.txt
+- python -m streamlit run app.py
 
 ## Hasil Utama
 - Model Random Forest dengan ROC-AUC 0,767
